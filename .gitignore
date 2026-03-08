@@ -1,0 +1,20 @@
+# iOS
+.DS_Store
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+*.xcuserdata/
+*.xcodeproj/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv/
+*.pytest_cache/
+*.mypy_cache/
+*.coverage
